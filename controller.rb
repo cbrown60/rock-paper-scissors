@@ -21,7 +21,7 @@ erb(:result)
   end 
 
   get '/about_us' do
-    erb(:play)
+    erb(:about_us)
   end
 
   get '/result' do
